@@ -17,7 +17,7 @@
     "@azure/msal-react": "^5.5.2",
     "@fluentui/react-components": "^9.73.3",
     "@fluentui/react-icons": "^2.0.319",
-    "@fluentui/react-table": "^9.19.14",
+    "@fluentui/react-table": "^9.19.19",
     "@react-spring/web": "^10.0.3",
     "dompurify": "^3.4.12",
     "i18next": "^24.2.0",
